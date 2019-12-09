@@ -1,0 +1,36 @@
+.navbar-brand {
+    background: #4aaaa5;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.bg-light {
+    background-color: #ffffff!important;
+}
+
+.navbar {
+    padding: 0rem 1rem;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #cccccc; 
+}
+
+body {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/vintage-wallpaper.png");
+}
+
+.card {
+    margin-top: 40px;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
