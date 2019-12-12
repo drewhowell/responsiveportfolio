@@ -27,6 +27,7 @@ body {
 
 .card {
     margin-top: 40px;
+    border: 1px solid #dddddd;
 }
 
 h2 {
@@ -44,9 +45,7 @@ hr {
     text-align: center;
     padding-top: 40px;
     padding-bottom: 5px;
-    border-top-style: solid;
-    border-top-color: #4aaaa5;
-    border-top-width: 8px;
+    border-top: 8px solid #4aaaa5;
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
     color: #cccccc;
@@ -65,4 +64,14 @@ hr {
 .btn {
     border-radius: 0rem;
     padding: .375rem 1.25rem;
+}
+
+.navbar-nav {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
 }
