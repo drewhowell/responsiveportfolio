@@ -28,6 +28,7 @@ body {
 .card {
     margin-top: 40px;
     border: 1px solid #dddddd;
+    margin-bottom: 100px;
 }
 
 h2 {
@@ -74,4 +75,33 @@ hr {
 p {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
+}
+
+.col-sm-4 {
+    padding-bottom: 60px;
+    margin: 20px;
+}
+
+.portfoliopics {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.positioning-a {
+    position: relative;
+}
+
+.positioning-b {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
 }
