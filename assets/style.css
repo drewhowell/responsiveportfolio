@@ -105,3 +105,8 @@ p {
     background: #4aaaa5;
     border-bottom: 0;
 }
+
+.card-body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
